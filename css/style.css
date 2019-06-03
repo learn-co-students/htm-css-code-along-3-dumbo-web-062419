@@ -1,0 +1,25 @@
+/*This is a CSS coment*/
+
+/*CSS Syntax:
+
+selector {
+    property: value;
+    property: value;
+}
+
+*/
+
+p {
+    font-size: 16px;
+    line-height: 1.5m;
+}
+
+figcaption {
+    font-weight: normal;
+    font-size: 0.75em;
+    line-height: 1.5em;
+    font-family: Georgia, "New Times Roman", serif;
+    text-align: right;
+}
+
+/*Psuedo Selector*/
